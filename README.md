@@ -9,27 +9,19 @@ It includes Docker containerization, Kubernetes deployment, and a CI/CD pipeline
 - Aisuluu Sharipova — Application Development
 - Nuremir Sulaimanov — QA/Automation Engineer
 
-## Technology Stack
-- Git
-- Docker
-- Kubernetes
-- Java
-- CI/CD (GitHub Actions)
-- Linux
+## Стек технологий
 
-## Run Instructions
+- Docker  
+- Kubernetes  
+- Linux (Ubuntu Server)  
+- Nginx  
+- GitHub Actions (CI/CD)  
 
-### 1. Clone the repository
-git clone https://github.com/AisuluuSharipova/team-docs-butterfly
+---
 
-### 2. Build Docker image
-docker build -t devops-app .
+## Инструкции по запуску
 
-### 3. Run container
-docker run -p 8080:8080 devops-app
+1. Клонировать репозиторий:
+   ```bash
+   git clone https://github.com/username/devops-practice.git
 
-### 4. Deploy to Kubernetes
-kubectl apply -f k8s/
-
-### 5. (Optional) Run tests
-./run-tests.sh
