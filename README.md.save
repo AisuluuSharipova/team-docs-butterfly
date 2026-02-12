@@ -1,15 +1,19 @@
+## 📖 Overview
+
+This project demonstrates a complete DevOps workflow — from development to deployment.  
+It showcases containerization, orchestration, and CI/CD automation using modern DevOps tools.
 # 🦋 Team Docs Butterfly – DevOps Project
 
 ## Project Description
 This is a DevOps practice project that demonstrates the full application delivery lifecycle.
 It includes Docker containerization, Kubernetes deployment, and a CI/CD pipeline setup.
 
-# 👥 Team
+## Team
 - Dilnaz Zhumabaeva — DevOps Engineer
 - Aisuluu Sharipova — Application Development
 - Nuremir Sulaimanov — QA/Automation Engineer
 
-## 🛠 Technology Stack
+## Technology Stack
 - Git
 - Docker
 - Kubernetes
@@ -17,7 +21,7 @@ It includes Docker containerization, Kubernetes deployment, and a CI/CD pipeline
 - CI/CD (GitHub Actions)
 - Linux
 
-## 🚀 Getting Started
+## Run Instructions
 
 ### 1. Clone the repository
 git clone https://github.com/AisuluuSharipova/team-docs-butterfly
