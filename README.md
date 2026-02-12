@@ -9,7 +9,7 @@ It includes Docker containerization, Kubernetes deployment, and a CI/CD pipeline
 - Aisuluu Sharipova — Application Development
 - Nuremir Sulaimanov — QA/Automation Engineer
 
-## 🛠 Technology Stack
+## 🛠  Technology Stack
 - Git
 - Docker
 - Kubernetes
