@@ -19,6 +19,7 @@ It includes Docker containerization, Kubernetes deployment, and a CI/CD pipeline
 - GitHub Actions (CI/CD)  
 
 ## 🛠 Technology Stack
+## 🛠  Technology Stack
 - Git
 - Docker
 - Kubernetes
