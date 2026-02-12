@@ -7,6 +7,7 @@ It includes Docker containerization, Kubernetes deployment, and a CI/CD pipeline
 ## Team
 - Dilnaz Zhymabekova — DevOps Engineer
 - Aisuluu Sharipova — Application Development
+- Nuremir Sulaimanov — QA/Automation Engineer
 
 ## Technology Stack
 - Git
@@ -14,6 +15,7 @@ It includes Docker containerization, Kubernetes deployment, and a CI/CD pipeline
 - Kubernetes
 - Java
 - CI/CD (GitHub Actions)
+- Linux
 
 ## Run Instructions
 
@@ -28,3 +30,6 @@ docker run -p 8080:8080 devops-app
 
 ### 4. Deploy to Kubernetes
 kubectl apply -f k8s/
+
+### 5. (Optional) Run tests
+./run-tests.sh
